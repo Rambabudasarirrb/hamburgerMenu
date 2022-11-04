@@ -1,0 +1,9 @@
+.home-image {
+  height: 600;
+}
+.About-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
